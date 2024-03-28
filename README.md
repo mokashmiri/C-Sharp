@@ -1,5 +1,5 @@
 # Momo's Universal Calculator
-Description:
+
 Momo's Universal Calculator is a versatile C# console application designed to perform a variety of mathematical operations. The tool not only handles basic arithmetic but also supports advanced functions like power and square root calculations. Robust input validation ensures user entries are correct, promoting reliable and accurate computation.
 
 Features:
